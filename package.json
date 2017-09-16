@@ -1,0 +1,24 @@
+{
+  "name": "express_blog",
+  "version": "1.0.0",
+  "description": "express used for personal blog",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "node": "^8.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblasa/express_blog.git"
+  },
+  "author": "sblasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sblasa/express_blog/issues"
+  },
+  "homepage": "https://github.com/sblasa/express_blog#readme"
+}
