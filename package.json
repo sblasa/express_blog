@@ -4,6 +4,7 @@
   "description": "express used for personal blog",
   "main": "app.js",
   "dependencies": {
+    "body-parser": "^1.18.1",
     "express": "^4.15.4",
     "node": "^8.3.0"
   },
